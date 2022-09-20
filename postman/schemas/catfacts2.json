@@ -12,10 +12,10 @@
     "/breeds": {
       "get": {
         "tags": [
-          "Breeds"
+          "Bros"
         ],
-        "summary": "Get a list of breeds",
-        "description": "Returns a a list of breeds",
+        "summary": "Get a list of bros",
+        "description": "Returns a a list of bros",
         "operationId": "getBreeds",
         "parameters": [
           {
